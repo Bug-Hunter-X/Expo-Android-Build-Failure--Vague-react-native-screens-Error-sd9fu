@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android APK.  The build process fails and returns an error message related to `react-native-screens`.  It does not provide a specific line number or file, making debugging difficult.  The error may manifest differently depending on the Expo SDK version and other dependencies.
